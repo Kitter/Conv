@@ -1,3 +1,3 @@
-# word-association
+# Conv - Word Convergent
 
 
